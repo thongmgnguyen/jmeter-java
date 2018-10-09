@@ -1,0 +1,15 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1538640321563,945,https://katalon.atlassian.net/rest/api/2/search?=&=,200,123,Main Thread Group 1-1,,true,,2065,239,1,1,https://katalon.atlassian.net/rest/api/2/search?=&=,504,0,0
+1538640326444,1339,https://katalon.atlassian.net/rest/api/2/search?=&=,200,,Main Thread Group 1-1,,true,,2065,235,1,1,https://katalon.atlassian.net/rest/api/2/search?=&=,557,0,0
+1538640324627,936,https://katalon.atlassian.net/rest/api/2/search?=&=,400,text ok,Main Thread Group 1-1,,true,,2064,239,1,1,https://katalon.atlassian.net/rest/api/2/search?=&=,497,0,0
+1538640323398,1625,https://katalon.atlassian.net/rest/api/2/issue/,201,,Main Thread Group 1-1,,true,,422,356,1,1,https://katalon.atlassian.net/rest/api/2/issue/,631,0,0
+1538640319692,1698,https://katalon.atlassian.net/rest/api/2/issue/,201,,Main Thread Group 1-1,,true,,422,358,1,1,https://katalon.atlassian.net/rest/api/2/issue/,860,0,1
+1538640317500,1858,"https://katalon.atlassian.net/rest/api/2/issue/KD-1?expand=names&fields=summary,status,issuetype,assignee,project,priority,description&=",200,,Main Thread Group 1-1,,true,,2199,0,1,1,"https://katalon.atlassian.net/rest/api/2/issue/KD-1?expand=names&fields=summary,status,issuetype,assignee,project,priority,description&=",509,0,2
+1538640328035,1445,https://katalon.atlassian.net/rest/api/2/search?=&=,200,,Main Thread Group 1-1,,true,,2065,235,1,1,https://katalon.atlassian.net/rest/api/2/search?=&=,536,0,0
+1538640321563,945,https://katalon.atlassian.net/rest/api/2/search?=&=,200,123,Main Thread Group 1-1,,true,,2065,239,1,1,https://katalon.atlassian.net/rest/api/2/search?=&=,504,0,0
+1538640326444,1339,https://katalon.atlassian.net/rest/api/2/search?=&=,200,,Main Thread Group 1-1,,true,,2065,235,1,1,https://katalon.atlassian.net/rest/api/2/search?=&=,557,0,0
+1538640324627,936,https://katalon.atlassian.net/rest/api/2/search?=&=,400,text ok,Main Thread Group 1-1,,true,,2064,239,1,1,https://katalon.atlassian.net/rest/api/2/search?=&=,497,0,0
+1538640323398,1625,https://katalon.atlassian.net/rest/api/2/issue/,201,,Main Thread Group 1-1,,true,,422,356,1,1,https://katalon.atlassian.net/rest/api/2/issue/,631,0,0
+1538640319692,1698,https://katalon.atlassian.net/rest/api/2/issue/,201,,Main Thread Group 1-1,,true,,422,358,1,1,https://katalon.atlassian.net/rest/api/2/issue/,860,0,1
+1538640317500,1858,"https://katalon.atlassian.net/rest/api/2/issue/KD-1?expand=names&fields=summary,status,issuetype,assignee,project,priority,description&=",200,,Main Thread Group 1-1,,true,,2199,0,1,1,"https://katalon.atlassian.net/rest/api/2/issue/KD-1?expand=names&fields=summary,status,issuetype,assignee,project,priority,description&=",509,0,2
+1538640328035,1445,https://katalon.atlassian.net/rest/api/2/search?=&=,200,,Main Thread Group 1-1,,true,,2065,235,1,1,https://katalon.atlassian.net/rest/api/2/search?=&=,536,0,0
